@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marching_squares", "MarchingSquares\marching_squares.csproj", "{051E47F0-14E6-4C62-BD0F-074F92F1BD72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{051E47F0-14E6-4C62-BD0F-074F92F1BD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051E47F0-14E6-4C62-BD0F-074F92F1BD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051E47F0-14E6-4C62-BD0F-074F92F1BD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051E47F0-14E6-4C62-BD0F-074F92F1BD72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32E61D8F-9785-40EC-BDD8-E2F4805ED77E}
+	EndGlobalSection
+EndGlobal
